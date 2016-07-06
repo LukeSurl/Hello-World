@@ -1,2 +1,2 @@
 # Hello-World
-Created as part of the tutorial
+This repository was created by me (Luke Surl) as part of my learning how to use GitHub.
